@@ -3,3 +3,4 @@ config/db.json
 config/log4js.json
 /node_modules
 /models_tmp
+.vscode
